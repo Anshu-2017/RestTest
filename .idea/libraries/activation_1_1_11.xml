@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="activation-1.1.11">
+    <CLASSES>
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/activation-1.1.1.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/commons-codec-1.9.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/commons-lang3-3.4.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/commons-logging-1.2.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/groovy-2.5.6.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/groovy-json-2.5.6.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/groovy-xml-2.5.6.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/hamcrest-2.1.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/hamcrest-core-2.1.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/hamcrest-library-2.1.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/httpclient-4.5.3.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/httpcore-4.4.6.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/httpmime-4.5.3.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/jaxb-api-2.2.12.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/jaxb-osgi-2.2.10.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/org.apache.sling.javax.activation-0.1.0.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/tagsoup-1.2.1.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Jarfiles/RestAssured/docs/json-path-4.0.0-javadoc.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/rest-assured-4.0.0-javadoc.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/rest-assured-common-4.0.0-javadoc.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/xml-path-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Jarfiles/RestAssured/rest-assured-4.0.0-deps/jaxb-osgi-2.2.10.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/json-path-4.0.0-sources.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/rest-assured-4.0.0-sources.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/rest-assured-common-4.0.0-sources.jar!/" />
+      <root url="jar://C:/Jarfiles/RestAssured/docs/xml-path-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

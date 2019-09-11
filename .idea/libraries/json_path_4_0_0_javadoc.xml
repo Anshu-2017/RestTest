@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="json-path-4.0.0-javadoc">
+    <CLASSES>
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/json-path-4.0.0-deps/commons-lang3-3.4.jar!/" />
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/json-path-4.0.0-deps/groovy-2.5.6.jar!/" />
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/json-path-4.0.0-deps/groovy-json-2.5.6.jar!/" />
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/json-path-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/docs/json-path-4.0.0-javadoc.jar!/" />
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/docs/rest-assured-common-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/docs/json-path-4.0.0-sources.jar!/" />
+      <root url="jar://C:/Jarfiles/json-path-4.0.0-dist/docs/rest-assured-common-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
